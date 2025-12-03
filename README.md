@@ -3,7 +3,7 @@
 ### Project Overview
 This project, developed in preparation for the **CFA Level I** and during the MSc in Management at **NEOMA Business School**, implements a systematic backtesting framework for the **EUR/USD** pair driven by the US 10-Year Treasury yield trends.
 
-**Objective:** To quantify the performance and identify the drivers of a Macro-economic trend-following strategy over the 2020-2024 period.
+**Objective:** To quantify the performance and identify the drivers of a Macro-economic trend-following strategy over the 2020-2025 period.
 
 ---
 
@@ -59,3 +59,4 @@ To run this project and reproduce the results:
 ---
 
 *Author: Nils CHAVEROT - MSc in Management / CFA Level I Candidate*
+
