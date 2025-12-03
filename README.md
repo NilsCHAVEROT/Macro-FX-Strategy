@@ -1,7 +1,7 @@
 # Global Macro FX Strategy: EUR/USD Yield Differential
 
 ### Project Overview
-[cite_start]This project, developed in preparation for the **CFA Level I** and during the MSc in Management at **NEOMA Business School**[cite: 3], implements a systematic backtesting framework for the **EUR/USD** pair driven by the US 10-Year Treasury yield trends.
+This project, developed in preparation for the **CFA Level I** and during the MSc in Management at **NEOMA Business School**, implements a systematic backtesting framework for the **EUR/USD** pair driven by the US 10-Year Treasury yield trends.
 
 **Objective:** To quantify the performance and identify the drivers of a Macro-economic trend-following strategy over the 2020-2024 period.
 
@@ -57,4 +57,5 @@ To run this project and reproduce the results:
     ```
 
 ---
-[cite_start]*Author: Nils CHAVEROT - MSc in Management / CFA Level I Candidate* [cite: 3]
+
+*Author: Nils CHAVEROT - MSc in Management / CFA Level I Candidate*
